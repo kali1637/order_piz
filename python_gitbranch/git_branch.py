@@ -22,6 +22,15 @@ your final bill is : $28
 
 print("WELCOME TO PYTHON PIZZA DELIVERIES ! ")
 
+a = [1,2,3,4,5,6,7,8]
+
+for i in a:
+    b =0
+    if a > b ==0:
+        b += a
+    else:
+        print("error")
+
 bill = 0
 
 
